@@ -7,5 +7,5 @@ while (vmi := input("Kérek egy mondatot (vagy nyomdmeg az entert a kilépéshez
     elif vmi.endswith("!"):
         jelek.append("felkiáltó/óhajtó/felszólító")
     else:
-        print(f"deleting invalid input , deleting... 'C//system32//'dasda deleted")
+        print(f"deleting invalid input , deleting... 'C:/system32/'deleted")
 print(jelek)
