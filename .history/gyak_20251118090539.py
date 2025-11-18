@@ -35,4 +35,4 @@ for i in range(10):
 for i in range(10):
     egyesitett.append(betuk[i])
     egyesitett.append(szamok2[i])
-print(egyesitett)    
+print()    

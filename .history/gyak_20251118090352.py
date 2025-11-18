@@ -33,6 +33,5 @@ for i in range(10):
     x=int(input("irj egy szamot:"))
     szamok2.append(x)
 for i in range(10):
-    egyesitett.append(betuk[i])
-    egyesitett.append(szamok2[i])
-print(egyesitett)    
+    egyesitett
+            

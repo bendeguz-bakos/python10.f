@@ -20,19 +20,6 @@ listnagys=int(input("irhbeegyszámot"))
 listaatlag=[]
 
 for i in range(listnagys):
-    listaatlag.append(random.randint(1,10))
-print(sum(listaatlag)/listnagys)
-betuk=[]
-szamok2=[]
-egyesitett=[]
-x=0
-for i in range(10):
-    x=input("irj egy betut:")
-    betuk.append(x)
-for i in range(10):
-    x=int(input("irj egy szamot:"))
-    szamok2.append(x)
-for i in range(10):
-    egyesitett.append(betuk[i])
-    egyesitett.append(szamok2[i])
-print(egyesitett)    
+    listaatlag.append(random.randi)
+print(x/listnagys)    
+    
