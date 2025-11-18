@@ -28,4 +28,6 @@ while (x:=int(input("Adj meg egy számot (0 a kilépéshez): "))) != 0:
     print(f'A megadott szám: {x}')
     vmi.append(x)
 print(vmi)    
+
+
     
