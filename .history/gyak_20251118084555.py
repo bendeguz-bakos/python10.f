@@ -16,6 +16,5 @@ if vszamk or vszamk2 in szamok:
     print("igen")
     
 listnagys=int(input("irhbeegyszámot"))
-x=0
-for i in szamok in range(listnagys):
-    x=+i  
+listatl=[]
+for i in szamok in range(lista)    

@@ -11,11 +11,6 @@ for i in range(hosz):
 print(list)
 
 vszamk=int(input("irjegyszámot:"))
-vszamk2=int(input("irjegyszámot:"))
-if vszamk or vszamk2 in szamok:
+vszamk=int(input("irjegyszámot:"))
+if vszamk in szamok:
     print("igen")
-    
-listnagys=int(input("irhbeegyszámot"))
-x=0
-for i in szamok in range(listnagys):
-    x=+i  

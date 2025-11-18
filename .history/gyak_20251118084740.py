@@ -18,4 +18,4 @@ if vszamk or vszamk2 in szamok:
 listnagys=int(input("irhbeegyszámot"))
 x=0
 for i in szamok in range(listnagys):
-    x=+i  
+    x    
