@@ -5,3 +5,4 @@ print(ujlista)
 print(string_lista)
 while True:
     
+    

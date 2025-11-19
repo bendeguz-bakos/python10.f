@@ -4,4 +4,3 @@ ujlista = [ x.capitalize() for x in string_list]
 print(ujlista)
 print(string_lista)
 while True:
-    
