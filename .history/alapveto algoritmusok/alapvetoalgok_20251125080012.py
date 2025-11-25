@@ -1,5 +1,4 @@
 jegyek = []
-mjegyek=1
 while mjegyek != 0:
     mjegyek= int(input("adj meg egy jegyet 1 és 5 között (nullával kilépsz): "))
     if 0>mjegyek or 5<mjegyek:
@@ -16,5 +15,5 @@ osszeg=0
 for jegy in jegyek:
     osszeg+=jegy
     
-print(f"a jegyek összege{osszeg}")
+print(osszeg)
 print(f"a jegyek átlaga {osszeg/len(jegyek)}")
