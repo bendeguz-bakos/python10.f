@@ -1,7 +1,11 @@
 #LEGB
+
 #Local
-#Enclosure
+
+#Enviromental
+
 #Global
+
 #BuiltIn
 
 #---------------------------
